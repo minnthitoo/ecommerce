@@ -1,0 +1,40 @@
+https://dashboardpack.com/bootstrap-templates/free-themes/
+https://sweetalert2.github.io/
+https://www.daterangepicker.com/
+https://datatables.net/
+https://www.tiny.cloud/
+https://getbootstrap.com/
+https://themewagon.com/
+https://www.geeksforgeeks.org/laravel-pagination-customizations/
+https://www.itsolutionstuff.com/post/laravel-country-state-city-dropdown-using-ajax-exampleexample.html
+https://www.itsolutionstuff.com/post/laravel-9-get-current-user-location-from-ip-addressexample.html
+https://www.itsolutionstuff.com/post/laravel-9-custom-email-verification-tutorialexample.html
+https://www.itsolutionstuff.com/post/how-to-get-all-routes-in-laravelexample.html
+https://www.itsolutionstuff.com/post/laravel-google-bar-chart-example-tutorialexample.html
+https://www.itsolutionstuff.com/post/laravel-google-pie-chart-example-tutorialexample.html
+https://www.itsolutionstuff.com/post/laravel-9-get-client-ip-address-exampleexample.html
+https://www.itsolutionstuff.com/post/laravel-9-pagination-example-tutorialexample.html
+https://www.itsolutionstuff.com/post/laravel-9-get-current-logged-in-user-data-exampleexample.html
+https://www.itsolutionstuff.com/post/laravel-9-google-charts-tutorial-exampleexample.html
+https://www.itsolutionstuff.com/post/laravel-9-summernote-editor-with-image-uploadexample.html
+https://www.itsolutionstuff.com/post/how-to-integrate-tinymce-editor-in-laravelexample.html
+https://www.itsolutionstuff.com/post/how-to-generate-qr-code-in-laravelexample.html
+https://www.itsolutionstuff.com/post/laravel-9-drag-and-drop-file-upload-with-dropzone-jsexample.html
+https://www.itsolutionstuff.com/post/laravel-9-autocomplete-search-with-select2-js-exampleexample.html
+https://www.itsolutionstuff.com/post/laravel-jquery-ui-autocomplete-ajax-search-exampleexample.html
+https://www.itsolutionstuff.com/post/laravel-9-cron-job-task-scheduling-tutorialexample.html
+https://www.itsolutionstuff.com/post/laravel-9-autocomplete-search-from-database-exampleexample.html
+https://www.itsolutionstuff.com/post/laravel-9-send-mail-using-gmail-smtp-serverexample.html
+https://www.itsolutionstuff.com/post/laravel-9-import-export-excel-and-csv-file-tutorialexample.html
+https://www.itsolutionstuff.com/post/laravel-9-auth-with-livewire-jetstream-exampleexample.html
+https://www.itsolutionstuff.com/post/laravel-9-authentication-using-jetstream-tutorialexample.html
+https://www.itsolutionstuff.com/post/how-to-send-email-to-multiple-users-in-laravelexample.html
+
+Admin Panel Theme 
+https://drive.google.com/drive/folders/1wgDJVgfHMqo5lWeoOSNg5fhk8xLnnzWR?usp=share_link
+
+FrontEnd Template
+https://drive.google.com/drive/folders/1Gk1PD4m2579FTKfHD4DEb-UNUoYUGoJP?usp=share_link
+
+Merchant Panel 
+https://github.com/puikinsh/CoolAdmin?fbclid=IwAR3jxjxYyDvnSiHod5lkWn768PJL1uTFvwF7z6m0WDy6R4ZcnINM3KZEfis

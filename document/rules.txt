@@ -1,0 +1,4 @@
+1. Add Comment in code. 
+2. Commit after done task.
+3. Give Variable name clear and meanuful
+4. make 0 as draft , 1 as publish 

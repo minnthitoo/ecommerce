@@ -1,0 +1,62 @@
+14.November.2022 to 20.November.2022 (1week)
+
+1. Requirements Analysis and prepare
+   Understanding Requirements (Done)
+   Collect resource code and tools  (Done)
+   find admin template and frontend template (Done)
+   custom userinterface
+   muit auth back bone code
+
+21.November.2022 to 12.December.2022 (4weeks)
+
+2. Backbone muti shop ecomerce
+   Login / Register / Logout
+   Muti Role , Muti Dashboard
+   Google SSO , Facebook SSO
+   Admin Panel (User Managmement)
+   Admin Panel (Shop Managmement)
+   Admin Panel ( Cat , SubCat , Product Attribute Managmement )
+   Product Show in Main Website and Shop Website
+   Merchant Dashboard
+   Member Dashboard
+   Add to cart
+   check out
+
+13.December.2022 to 31.December.2022 (3weeks)
+
+3.Refer / Loyalty Point / Cupon
+    Order History
+    Refer Managmement
+    Partner Managmement
+    Cupon Managmement
+    Loyalty point Managmement
+    Refer 2 Managmement with code
+
+4.................
+
+
+https://mailtrap.io/ မှာ အရင် အကောင့်ဖွင့်ပါ
+.env မှာ
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.mailtrap.io
+MAIL_PORT=2525
+MAIL_USERNAME=8ad03d875e5e3f
+MAIL_PASSWORD=c4aa556cefe74d
+MAIL_ENCRYPTION=tls
+
+https://mailtrap.io/inboxes/1977315/messages  က integration မှာ laravel ထား
+အဲ့ကရတဲ့ဟာတွေကို ကူးပီး env မှာ ထည့်
+
+php artisan config:clear
+
+ပီးရင် config/fotify.php မှာ Features::emailVerification() ကို ကောမန့်ဖြုတ်
+ပီးရင် User model မှာ MustVerifyEmail ကို impliment လုပ်
+
+အရင်က ဆောက်ထားတဲ့အကောင့်ဝင်ရင် verify တောင်းမယ် အသစ်ဆောက်လဲ တောင်းမယ်
+
+varification messages တွေ ကြည့်ချင်ရင် https://mailtrap.io/inboxes/1977315/messages ဒီမှာကြည့်ပါ
+
+ဒါဆို ရပီ
+
+
+
